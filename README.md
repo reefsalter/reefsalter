@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reef</h1>
-<h3 align="center">👋 Aspiring Developer & Aviation Enthusiast | Passionate about coding and planes 🛩️A passionate frontend developer from India</h3>
+<h3 align="center">👋 Aspiring Developer & Aviation Enthusiast | Passionate about coding and planes 🛩️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reefsalter&label=Profile%20views&color=0e75b6&style=flat" alt="reefsalter" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript**
 
-- 👨‍💻 All of my projects are available at [reefsalter.com](reefsalter.com)
+- 👨‍💻 All of my projects are available at [https://reefsalter.com](https://reefsalter.com)
 
 - 💬 Ask me about **HTML, CSS, Python**
 
@@ -35,4 +35,3 @@
 <p><a href="https://www.buymeacoffee.com/reefsalter"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="reefsalter" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reefsalter&show_icons=true&locale=en" alt="reefsalter" /></p>
-

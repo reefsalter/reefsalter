@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://reefsalter.com](https://reefsalter.com)
+- 👨‍💻 All of my projects are available at [https://reefsalter.com](https://reefsalter.dev)
 
 - 💬 Ask me about **HTML, CSS, Python**
 

@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Python, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://reefsalter.dev](https://reefsalter.dev)
+- 👨‍💻 All of my projects are available at [https://reefsalter.com](https://reefsalter.com)
 
 - 💬 Ask me about **HTML, CSS, Python**
 
-- 📫 How to reach me **reef@reefsalter.dev**
+- 📫 How to reach me **reef@reefsalter.com**
 
 - ⚡ Fun fact **I want to become a commercial pilot**
 

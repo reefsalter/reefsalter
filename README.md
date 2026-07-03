@@ -1,37 +1,91 @@
-<h1 align="center">Hi 👋, I'm Reef</h1>
-<h3 align="center">👋 Future Pilot & Aviation Enthusiast | Passionate about flying and coding  🌍🛩️</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reefsalter&label=Profile%20views&color=0e75b6&style=flat" alt="reefsalter" /> </p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Reef;Future+Commercial+Pilot+%E2%9C%88%EF%B8%8F;Aviation+Enthusiast+%2B+Developer;Currently+building+a+suvat+solver" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reefsalter" alt="reefsalter" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=reefsalter&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/reefsalter?label=Followers&style=social" alt="followers" />
+<img src="https://img.shields.io/twitter/follow/reefsalter?style=social" alt="twitter" />
 
-<p align="left"> <a href="https://twitter.com/reefsalter" target="blank"><img src="https://img.shields.io/twitter/follow/reefsalter?logo=twitter&style=for-the-badge" alt="reefsalter" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [suvat solver](https://github.com/reefsalter/suvat-solver)
+---
 
-- 🌱 I’m currently learning **Python, Javascript**
+### 🧭 About Me
 
-- 👨‍💻 All of my projects are available at [https://reefsalter.com](https://reefsalter.com)
+- 🛩️ Future commercial pilot, currently learning to code alongside flight training
+- - 🔭 Currently building [**suvat solver**](https://github.com/reefsalter/suvat-solver)
+  - - 🌱 Learning **Python** and **JavaScript**
+    - - 👨‍💻 Portfolio & projects: [reefsalter.com](https://reefsalter.com)
+      - - 💬 Ask me about **HTML, CSS, Python**
+        - - 📫 Reach me at **reef@reefsalter.com**
+          - - ⚡ Fun fact: I want to fly commercial jets someday
+           
+            - ---
 
-- 💬 Ask me about **HTML, CSS, Python**
+            ### 🛠️ Skills & Tools
 
-- 📫 How to reach me **reef@reefsalter.com**
-
-- ⚡ Fun fact **I want to become a commercial pilot**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/reefsalter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="reefsalter" height="30" width="40" /></a>
-<a href="https://twitter.com/reefsalter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reefsalter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reefsalter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reefsalter" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23265099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23265099" height="30" width="40" /></a>
-<a href="https://instagram.com/reefsalter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reefsalter" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/reefsalter"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="reefsalter" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reefsalter&show_icons=true&locale=en" alt="reefsalter" /></p>
+            **Languages**
+            <p>
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+            </p>p>
+         
+            **Frameworks & Platforms**
+            <p>
+              <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+              <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+              <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" />
+              <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+            </p>p>
+         
+            **Cloud & Design**
+            <p>
+              <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+              <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+              <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+            </p>p>
+         
+            ---
+         
+            ### 📊 GitHub Stats
+         
+            <p align="center">
+              <img height="165" src="https://github-readme-stats.vercel.app/api?username=reefsalter&show_icons=true&theme=default&hide_border=true" />
+              <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=reefsalter&hide_border=true" />
+            </p>p>
+         
+            <p align="center">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reefsalter&layout=compact&hide_border=true" />
+            </p>p>
+         
+            <p align="center">
+              <img src="https://github-profile-trophy.vercel.app/?username=reefsalter&theme=flat&no-frame=true&row=1" />
+            </p>p>
+         
+            ---
+         
+            ### 🌐 Connect With Me
+         
+            <p align="center">
+              <a href="https://twitter.com/reefsalter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>a>
+              <a href="https://linkedin.com/in/reefsalter"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>a>
+              <a href="https://instagram.com/reefsalter"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>a>
+              <a href="https://dev.to/reefsalter"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>a>
+              <a href="https://stackoverflow.com/users/23265099"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>a>
+            </p>p>
+         
+            ---
+         
+            <div align="center">
+         
+              ### ☕ Support Me
+         
+            <a href="https://www.buymeacoffee.com/reefsalter"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a>
+         
+            </div>
+            
+            </p>
+            </p>

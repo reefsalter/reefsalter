@@ -30,11 +30,7 @@ Most of the code in this profile exists because flight training generates an unr
 
 ### Hours logged
 
-<!--HOURS_START-->
-<p><img src="https://img.shields.io/badge/Total%20Hours-XX.X-00B2FF?style=flat-square" alt="Total flight hours"></p>
-<!--HOURS_END-->
-
-*(placeholder for now)*
+![Reef's Flight Logbook](https://logbook-badge.reefsalter.workers.dev/badge.svg)
 
 ### Currently
 

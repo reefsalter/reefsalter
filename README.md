@@ -6,9 +6,9 @@
 <p align="center">Student pilot. Occasional developer. Full-time imposter syndrome haver.</p>
 
 <p align="center">
-  <a href="https://reefsalter.com"><img src="https://img.shields.io/badge/reefsalter.com-000000?style=flat-square&logo=firefox&logoColor=white" alt="Website"></a>
-  <a href="https://www.logbook.aero/r/839791"><img src="https://img.shields.io/badge/Logbook-00B2FF?style=flat-square&logo=airplane&logoColor=white" alt="Logbook"></a>
-  <img src="https://img.shields.io/badge/ATPL(A)-1F4E79?style=flat-square" alt="ATPL(A)">
+  <a href="https://logbook-badge.reefsalter.workers.dev/site">
+    <img src="https://logbook-badge.reefsalter.workers.dev/site.svg" alt="Reef Salter">
+  </a>
 </p>
 
 
@@ -31,6 +31,9 @@ Most of the code in this profile exists because flight training generates an unr
 ### Hours logged
 
 ![Reef's Flight Logbook](https://logbook-badge.reefsalter.workers.dev/badge.svg)
+
+### Latest Blog Post
+[![Latest Blog Post](https://logbook-badge.reefsalter.workers.dev/latest-post.svg)](https://logbook-badge.reefsalter.workers.dev/latest-post)
 
 ### Currently
 

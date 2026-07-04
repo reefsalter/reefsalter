@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://reefsalter.com/logos/logo-black.png" alt="Reef Salter Logo" width="140">
+  <img src="https://reefsalter.com/logos/logo-white.png" alt="Reef Salter Logo" width="140">
 </p>
 
 <h1 align="center">Hey, I'm Reef 👋</h1>
